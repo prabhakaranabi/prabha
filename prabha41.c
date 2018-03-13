@@ -1,7 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-void main()
-char [har str[50],i,c=0;
+void main()har str[50],i,c=0;
 printf("enter a character");
 gets(str);
 for(i=0;str[i]!='\0';i++)
@@ -12,7 +11,4 @@ c++;
 }
 }
 printf("%d",c);
-char;
-}
-}
 }
